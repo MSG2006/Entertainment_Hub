@@ -2,7 +2,7 @@
 
 Welcome to the Movies website! This web application allows users to Discover the latest releases and explore an extensive collection of movies and TV shows from various genes, eras and countries, all conveniently organized for easy browsing.
 
-![Img3](https://github.com/MSG2006/Entertainment_Hub/assets/118352633/3c39ec8a-cfb6-4aed-9aef-a3d7d230c011)
+![Img3](https://github.com/saisanthoshbussa/Movies-Website/assets/118352633/3c39ec8a-cfb6-4aed-9aef-a3d7d230c011)
 
 
 ## Table of Contents
@@ -39,7 +39,7 @@ Welcome to the Movies website! This web application allows users to Discover the
 1. Clone the repository:
 
 ```javascript
-git clone https://github.com/saisanthoshbussa/Movies-Website
+git clone https://github.com/MSG2006/Entertainment_Hub
 ```
 
 2. Open the project in your preferred code editor.
